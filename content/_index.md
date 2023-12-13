@@ -11,7 +11,7 @@ sections:
         EIT
         声学实验室
       image:
-        filename: welcome.jpg
+        filename: 姜汉博招聘.png
       text: |
         <br>
         <br>
