@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        EIT
+        流体与声学实验室
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **EIT流体与声学实验室成立于2022年，研究领域专注于声学、流体与振动
   
   - block: collection
     content:
