@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 欢迎来到姜汉博研究团队
+        content: 
         align: center
         background:
           image:
