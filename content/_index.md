@@ -10,7 +10,8 @@ sections:
       title: |
         EIT
         声学实验室
-      image: 姜汉博招聘.png
+      image:
+        filename:hanboJ.png
       text: |
         <br>
         <br>
