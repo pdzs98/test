@@ -9,13 +9,13 @@ sections:
     content:
       title: |
         EIT
-        流体与声学实验室
+        声学实验室
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **EIT流体与声学实验室成立于2022年，研究领域专注于声学、流体与振动
+        <br>
+        EIT声学实验室成立于2022年，研究领域专注于声学、流体与振动
   
   - block: collection
     content:
